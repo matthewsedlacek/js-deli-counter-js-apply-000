@@ -21,6 +21,8 @@ At the beginning of the day, the deli is empty and is represented by an empty ar
 
 ### Hint
 
+
+
 Example usage:
 
 ```javascript
